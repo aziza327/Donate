@@ -1,0 +1,218 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.top-banner {
+    position: relative;
+}
+
+.top-banner img {
+    width: 1520px;
+    height: 669px;
+}
+
+.top-banner-text {
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 174px;
+    left: 500px;
+}
+
+.top-banner-text h1 {
+    font-size: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    background: #FF5959;
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
+}
+
+.donate-today {
+    margin-top: 70px;
+    padding: 50px;
+}
+
+.tittle3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.tittle3 h3 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.tk p {
+    text-align: center;
+}
+
+
+.amounts {
+    display: flex;
+    border-spacing: 5px;
+    padding-left: 350px;
+
+
+
+}
+
+.amounts p {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.amount100 {
+    width: 80px;
+    height: 70px;
+    border: 1px solid white;
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding: 20px;
+    top: 979px;
+    text-align: center;
+
+
+
+}
+
+.amount200 {
+    width: 80px;
+    height: 70px;
+    border: 2px solid #FF5959;
+    background: #FFEEEE;
+    border-radius: 5px;
+    padding: 20px;
+    top: 979px;
+    text-align: center;
+    color: #FF5959;
+}
+
+.button {
+    padding-left: 630px;
+}
+
+.donate-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    background: #FF5959;
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
+}
+
+
+
+.donate-plan {
+    margin-top: 70px;
+    padding: 50px;
+}
+
+.tittle2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.tittle2 h1 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+
+
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card1 {
+    width: 360px;
+    height: 352px;
+    border: 1px solid white;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+    padding: 20px;
+    top: 1659px;
+
+
+}
+
+.card2 {
+    width: 360px;
+    height: 352px;
+    border: 1px solid white;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+    padding: 20px;
+    top: 1659px;
+
+}
+
+.card3 {
+    width: 360px;
+    height: 352px;
+    border: 1px solid white;
+    background: rgba(255, 244, 214, 255);
+    border-radius: 5px;
+    padding: 20px;
+    top: 1659px;
+
+
+}
+
+.about-container {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.about-left img {
+    width: 400px;
+    height: 350px;
+
+}
+
+.how-to-contribute {
+    text-decoration: none;
+    padding: 10px;
+    background: #FF5959;
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
+}
+
+footer {
+    background: #0B0D17;
+    text-align: center;
+}
+
+footer-p {
+    display: flex;
+
+}
+
+.p1 {
+    font-family: Lobster;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    color: #FF5959;
+
+}
+
+.p2 {
+    color: #D9DBE1;
+    ;
+}
